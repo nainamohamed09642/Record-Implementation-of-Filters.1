@@ -70,17 +70,18 @@ plt.subplot(122);plt.imshow(edges, cmap='gray');plt.axis('off'); plt.title('Cann
 ```
 # Output:
 ## SOBEL EDGE DETECTOR
-<img width="1168" height="463" alt="image" src="https://github.com/user-attachments/assets/ca775e53-aa89-48d0-86ab-1353f6c4fada" />
+<img width="986" height="754" alt="download" src="https://github.com/user-attachments/assets/d232af16-aed7-42f9-9016-8a8d688670a7" />
 
-<img width="1157" height="469" alt="image" src="https://github.com/user-attachments/assets/a4474981-c343-4692-861c-52c2c35aafd8" />
+<img width="790" height="504" alt="download" src="https://github.com/user-attachments/assets/3f51702d-88e2-4f2a-9051-5682adecee53" />
 
-<img width="733" height="502" alt="image" src="https://github.com/user-attachments/assets/d66bf255-6042-4438-8317-c097dbe3f08c" />
 
 ## LAPLACIAN EDGE DETECTOR
-<img width="1047" height="392" alt="image" src="https://github.com/user-attachments/assets/cfff37b3-b6ad-45a1-b66b-288bdccdf9a1" />
+<img width="950" height="295" alt="download" src="https://github.com/user-attachments/assets/ead24846-092a-44dc-bfad-b57a17d80836" />
+
 
 ## CANNY EDGE DETECTOR
-<img width="1013" height="383" alt="image" src="https://github.com/user-attachments/assets/07d2f45f-18e3-4eb7-820e-4c8eb0bbd37e" />
+<img width="950" height="295" alt="download" src="https://github.com/user-attachments/assets/fa45fe86-f910-44c2-987c-60cb3f1e5ab2" />
+
 
 # Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
